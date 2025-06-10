@@ -1,16 +1,31 @@
-## Hi there 👋
+Formação acadêmica: 
+----------------------------------------------------------------------------------------------------------------------------------
 
-<!--JULIO
-**moraes0011/moraes0011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IFSULDEMINAS Tecnologia em Redes de Computadores 2024 – 2027
 
-Here are some ideas to get you started:
+SENAC Técnico em Contabilidade 2025
+CPET Técnico em Finanças 2024 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+SENAC Técnico em Administração 2023
+
+Certificações:
+----------------------------------------------------------------------------------------------------------------------------------
+
+FIDC – Fundos de Investimento em Direitos Creditórios (ANBIMA)
+FIP - Fundos de Investimento em Participações (ANBIMA)
+FII - Fundos de Investimento Imobiliários (ANBIMA)
+ETF no Mercado Financeiro (ANBIMA)
+Gestão de Carteiras e de Riscos Financeiros (ANBIMA)
+ESG no Mercado Financeiro (ANBIMA)
+Fundos de Investimentos (ANBIMA)
+Por Dentro dos Índices de Renda Fixa (ANBIMA)
+Gestão de Riscos e Performance (ANBIMA)
+Valuation - Avaliação de Empresas (ANBIMA)
+Compliance e Perfil do Investidor (ANBIMA)
+Previdência Complementar Aberta (ANBIMA)
+Mentalidade Ética (ANBIMA)
+Administrando bancos de dados (Fundação Bradesco)
+NDG Linux Unhatched (Cisco Networking Academy)
+
+<!--
 -->
